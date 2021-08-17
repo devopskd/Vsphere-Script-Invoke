@@ -1,4 +1,4 @@
-# Vsphere-Invoke-Script #
+# Vsphere-Script-Invoke #
 Invoke-Script in Vsphere VM
 
 #Run Script in VM Machine Using Invoke-Script
